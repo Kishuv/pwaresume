@@ -1,0 +1,50 @@
+{"details":{
+  "image":"profile.jpg",
+  "name":"kishore kumar",
+  "phoneno":"+91-1236489753",
+  "email":"kishorekumar18081998@gmail.com",
+  "address":"MIC college of technology CSE,kanchikacherla."
+},
+"career":{
+  "info":"To give my best effort in an organization by accepting new challenges and finding new ways to achieve the desirable result in the worst situation."
+},
+"education":[
+  {
+  "Qualification":"B.Tech",
+  "Institute":"MIC collge",
+  "Year":"2016-2020",
+  "Percentage":"90%"
+  },
+  {
+      "Qualification":"Intermediate",
+      "Institute":"Sri Chaitanya College",
+      "Year":"2014-2016",
+      "Percentage":"80%"
+  },
+  {
+      "Qualification":"SSC",
+      "Institute":"Nagrajuna",
+      "Year":"2014",
+      "Percentage":"80%"
+   }
+ ],
+ "skills":[{
+   "title":"Programming language",
+    "info":["C,C++,Java,R,Python"]
+  },
+  {
+    "title":"Databases",
+    "info":["oracle,sql,mysql,Tinydb"]
+
+  },
+  {
+  "title":"Operating Systems",
+  "info":["windows,Linux,Ubuntu,Dos,Android,ios"]
+  }
+],
+"Achievements":{
+  "title":"awards",
+  "info":"best student award in year-2017"
+}
+
+}
